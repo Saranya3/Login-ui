@@ -1,3 +1,3 @@
 # loginpage_ui
 
-![alt text](http://url/to/welcome.png)
+![alt text](https://github.com/Saranya3/Login-ui/blob/master/welcome.png)
