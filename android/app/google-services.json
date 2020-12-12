@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663427215134",
+    "project_id": "login-ui-930d7",
+    "storage_bucket": "login-ui-930d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663427215134:android:94fd49fb6fdb0d79ae230f",
+        "android_client_info": {
+          "package_name": "saranyaumapage.loginpage_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663427215134-rnrvb2va7m2gpteon0o8acc3nnvlbvca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw18kpMHhM9l40-yz-ZMiCCOIqyULr4G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663427215134-rnrvb2va7m2gpteon0o8acc3nnvlbvca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
